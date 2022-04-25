@@ -4,62 +4,71 @@
         "first_name:": "Summer",
         "hire_date": "2016-06-07",
         "job_title": "Public Accountant",
-        "last_name": "Payne"
+        "last_name": "Payne",
+        "status": "out"
     },
     {
         "employee_id": 106,
         "first_name:": "Rose",
         "hire_date": "2016-06-07",
         "job_title": "Accounting Manager",
-        "last_name": "Stephens"
+        "last_name": "Stephens",
+        "status": "out"
     },
     {
         "employee_id": 101,
         "first_name:": "Annabelle",
         "hire_date": "2016-09-17",
         "job_title": "Administration Assistant",
-        "last_name": "Dunn"
+        "last_name": "Dunn",
+        "status": "out"
     },
     {
         "employee_id": 1,
         "first_name:": "Tommy",
         "hire_date": "2016-06-17",
         "job_title": "President",
-        "last_name": "Bailey"
+        "last_name": "Bailey",
+        "status": "out"
     },
     {
         "employee_id": 3,
         "first_name:": "Blake",
         "hire_date": "2016-01-13",
         "job_title": "Administration Vice President",
-        "last_name": "Cooper"
+        "last_name": "Cooper",
+	 "status": "in"
     },
     {
         "employee_id": 2,
         "first_name:": "Jude",
         "hire_date": "2016-09-21",
         "job_title": "Administration Vice President",
-        "last_name": "Rivera"
+        "last_name": "Rivera",
+        "status": "in"
     },
     {
         "employee_id": 11,
         "first_name:": "Tyler",
         "hire_date": "2016-09-28",
         "job_title": "Accountant",
-        "last_name": "Ramirez"
+        "last_name": "Ramirez",
+        "status": "in"
     },
     {
         "employee_id": 10,
         "first_name:": "Ryan",
         "hire_date": "2016-08-16",
         "job_title": "Accountant",
-        "last_name": "Gray"
+        "last_name": "Gray",
+        "status": "in"
     },
     {
         "employee_id": 14,
         "first_name:": "Elliot",
         "hire_date": "2016-12-07",
         "job_title": "Accountant",
-        "last_name": "Brooks"
+        "last_name": "Brooks",
+	"status": "in"		
     }
 ]
